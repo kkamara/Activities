@@ -1,4 +1,4 @@
-package com.kelvinkamara.activity
+package com.kelvinkamara.activities
 
 import android.content.Intent
 import android.os.Bundle
@@ -50,7 +50,7 @@ class MainActivity : AppCompatActivity() {
             intent.putExtra(Constants.INTENT_MESSAGE_2_KEY, "How was your day?")
             intent.putExtra(Constants.INTENT_DATA_NUMBER, 3.14)
 //            startActivity(intent) // Not needed now we have a getResult variable
-                                    // that registers the activity for the result.
+                                    // that registers the activities for the result.
             getResult.launch(intent)
         }
     }

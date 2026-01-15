@@ -1,4 +1,4 @@
-package com.kelvinkamara.activity
+package com.kelvinkamara.activities
 
 import org.junit.Test
 

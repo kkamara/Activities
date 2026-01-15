@@ -1,4 +1,4 @@
-package com.kelvinkamara.activity
+package com.kelvinkamara.activities
 
 class Constants {
     companion object {

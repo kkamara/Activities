@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.kelvinkamara.activity"
+    namespace = "com.kelvinkamara.activities"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.kelvinkamara.activity"
+        applicationId = "com.kelvinkamara.activities"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.kelvinkamara.activity
+package com.kelvinkamara.activities
 
 import android.os.Bundle
 import android.widget.Button
